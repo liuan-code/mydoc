@@ -1,0 +1,26 @@
+{
+    "title": "MY NFT",
+    "name": "HUST",
+    "description": "HUST NFT",
+    "imageUrl": "https://ipfs.io/ipfs/QmPjqunm7zs7dDVuUH6cje4cVscjjoPbeV9uXhDurmQhFr",
+    "attributes": [
+        {
+            "trait_type": "Creator",
+            "value": "H 0"
+        }
+    ],
+    "properties":{
+        "name": {
+            "type": "string",
+            "description": "HUST"
+        },
+        "description":{
+            "type": "string",
+            "description": "HUST NFT"
+        },
+        "preview_media_file":{
+            "type": "string",
+            "description": "https://ipfs.io/ipfs/QmPjqunm7zs7dDVuUH6cje4cVscjjoPbeV9uXhDurmQhFr"
+        }
+    }
+}
