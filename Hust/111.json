@@ -2,7 +2,7 @@
     "title": "MY NFT",
     "name": "HUST",
     "description": "HUST NFT",
-    "imageUrl": "https://ipfs.io/ipfs/QmPjqunm7zs7dDVuUH6cje4cVscjjoPbeV9uXhDurmQhFr",
+    "imageUrl": "https://github.com/liuan-code/mydoc/blob/master/Hust/nBnaugjZzQ2NmlDMzIjN0QTYkJTO1gzNhBTZ5YTMzQjYmJjYiZWN1QmNjNzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg",
     "attributes": [
         {
             "trait_type": "Creator",
@@ -20,7 +20,7 @@
         },
         "preview_media_file":{
             "type": "string",
-            "description": "https://ipfs.io/ipfs/QmPjqunm7zs7dDVuUH6cje4cVscjjoPbeV9uXhDurmQhFr"
+            "description": "https://github.com/liuan-code/mydoc/blob/master/Hust/nBnaugjZzQ2NmlDMzIjN0QTYkJTO1gzNhBTZ5YTMzQjYmJjYiZWN1QmNjNzLtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg"
         }
     }
 }
